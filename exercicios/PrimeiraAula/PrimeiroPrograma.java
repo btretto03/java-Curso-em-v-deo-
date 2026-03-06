@@ -1,4 +1,4 @@
-package exercicios; //Pacote primeiroprograma
+package exercicios.PrimeiraAula; //Pacote primeiroprograma
 
 /*
 Quando a  primeira letra está maiúscula e o resto em Camel Case é classe ou interface
