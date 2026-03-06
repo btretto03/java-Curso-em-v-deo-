@@ -17,9 +17,9 @@ public class TiposPrimitivos {
     char letra2 = (char) 'B';
     boolean casado2 = (boolean) false;
 
-    Integer idade3 = new Integer(3); //Idade é um objeto
-    Float sal3 = new Float(1825.54);
-    Character letra3 = new Character('G');
-    Boolean casado3 = new Boolean(false);
-
+    //Integer idade3 = new Integer(3); //Idade é um objeto
+    //Float sal3 = new Float(1825.54);
+    //Character letra3 = new Character('G');
+    //Boolean casado3 = new Boolean(false);
+    //comentarios porque ficava riscado o vs code fala que é obsoleto
 }
