@@ -1,6 +1,6 @@
 # ☕ Meus Estudos em Java - Curso em Vídeo
 
-Este repositório foi criado para armazenar meus códigos, anotações e exercícios práticos desenvolvidos durante os meus estudos da linguagem **Java** com o curso do professor GUstavo Guanabara disponível no youtube em seu canal **Curso em Vídeo**.
+Este repositório foi criado para armazenar meus códigos, anotações e exercícios práticos desenvolvidos durante os meus estudos da linguagem **Java** com o curso do professor GUstavo Guanabara disponível no youtube em seu canal **Curso em Vídeo**, a fim de complementar as aulas de Programação Orientada a Objetos da Unicamp.
 
 ## 📺 Sobre o Curso
 
