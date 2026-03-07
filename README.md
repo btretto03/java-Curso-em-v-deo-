@@ -7,7 +7,7 @@ Os projetos desenvolvidos nas aulas de MC322(Programação orientada a objetos d
 
 O curso é focado em dar uma base sólida sobre a linguagem Java, abordando desde a sua história, como a linguagem funciona por baixo dos panos, até conceitos mais avançados e Orientação a Objetos.
 
-🔗 **Link para a playlist oficial do curso:** 
+🔗 **Link para as playlists oficiais do curso:** 
 [Curso de Java - Curso em Vídeo](https://www.youtube.com/watch?v=v_ZCtgwbS3o&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&index=3)
 [Curso de introdução a POO - Curso em Vídeo](https://www.youtube.com/watch?v=v_ZCtgwbS3o&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&index=3)
 
