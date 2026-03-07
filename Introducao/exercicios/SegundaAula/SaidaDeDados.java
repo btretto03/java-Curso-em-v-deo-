@@ -1,4 +1,4 @@
-package exercicios.SegundaAula;
+package Introducao.exercicios.SegundaAula;
 
 public class SaidaDeDados {
     public static void main(String[] args) {

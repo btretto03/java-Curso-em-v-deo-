@@ -1,4 +1,4 @@
-package exercicios.PrimeiraAula;
+package Introducao.exercicios.PrimeiraAula;
 
 import java.util.Locale;
 import java.awt.Toolkit;

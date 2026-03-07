@@ -1,4 +1,4 @@
-package exercicios.SegundaAula;
+package Introducao.exercicios.SegundaAula;
 
 public class TiposPrimitivos {
     int idade = 3; //atribuir "igual" a C

@@ -1,4 +1,4 @@
-package exercicios.SextaAula;
+package Introducao.exercicios.SextaAula;
 
 import java.util.Arrays;
 

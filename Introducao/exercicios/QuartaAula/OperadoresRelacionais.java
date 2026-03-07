@@ -1,4 +1,4 @@
-package exercicios.QuartaAula;
+package Introducao.exercicios.QuartaAula;
 
 public class OperadoresRelacionais {
    public static void main(String[] args) {

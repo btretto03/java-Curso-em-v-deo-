@@ -1,4 +1,4 @@
-package exercicios.SegundaAula;
+package Introducao.exercicios.SegundaAula;
 import java.util.Scanner; //ferramenta para ler dados
 
 public class EntradaDeDados {

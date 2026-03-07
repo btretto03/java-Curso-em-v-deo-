@@ -1,4 +1,4 @@
-package exercicios.SetimaAula;
+package Introducao.exercicios.SetimaAula;
 
 public class Funcoes {
     static void soma(int a, int b) { /*preciso do static, como main é static 

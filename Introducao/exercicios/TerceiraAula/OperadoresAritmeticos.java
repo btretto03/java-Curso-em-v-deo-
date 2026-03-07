@@ -1,4 +1,4 @@
-package exercicios.TerceiraAula;
+package Introducao.exercicios.TerceiraAula;
 
 public class OperadoresAritmeticos {
     public static void main(String[] args) {

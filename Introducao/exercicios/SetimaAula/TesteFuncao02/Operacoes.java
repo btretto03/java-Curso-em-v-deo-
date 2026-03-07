@@ -1,4 +1,4 @@
-package exercicios.SetimaAula.TesteFuncao02;
+package Introducao.exercicios.SetimaAula.TesteFuncao02;
 
 public class Operacoes {
     public static String contador( int i, int f) {

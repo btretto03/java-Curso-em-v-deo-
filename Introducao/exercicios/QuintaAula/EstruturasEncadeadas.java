@@ -1,4 +1,4 @@
-package exercicios.QuintaAula;
+package Introducao.exercicios.QuintaAula;
 import java.util.Scanner;
 
 public class EstruturasEncadeadas {

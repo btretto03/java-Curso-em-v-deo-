@@ -1,4 +1,4 @@
-package exercicios.PrimeiraAula.Swing;
+package Introducao.exercicios.PrimeiraAula.Swing;
 
 public class OlaMundoJava extends javax.swing.JFrame {
     

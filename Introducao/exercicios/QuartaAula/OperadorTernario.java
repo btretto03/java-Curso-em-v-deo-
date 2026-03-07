@@ -1,4 +1,4 @@
-package exercicios.QuartaAula;
+package Introducao.exercicios.QuartaAula;
 
 public class OperadorTernario {
     public static void main(String[] args) {
