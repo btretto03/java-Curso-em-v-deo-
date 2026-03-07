@@ -7,7 +7,7 @@ public class EstruturasEncadeadas {
         String tipo;
         int pernas = entrada.nextInt();
 
-        switch(pernas) {
+        switch(pernas) { //para nao usar muitos if e else
             case 1:
                 tipo = "Saci";
                 break;
