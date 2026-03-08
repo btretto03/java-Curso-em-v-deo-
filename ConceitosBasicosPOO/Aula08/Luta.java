@@ -31,12 +31,12 @@ public class Luta {
                     desafiante.empatarLuta();
                     break;
                 case 1: //ganhou desafiado
-                    System.out.println(desafiado.getNome() + "Venceu!!");
+                    System.out.println(desafiado.getNome() + " Venceu!!");
                     desafiado.ganharLuta();
                     desafiante.perderLuta();
                     break;
                 case 2: //ganhou desafiante
-                    System.out.println(desafiante.getNome() + "Venceu!!");
+                    System.out.println(desafiante.getNome() + " Venceu!!");
                     desafiado.perderLuta();
                     desafiante.ganharLuta();
                     break;
